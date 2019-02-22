@@ -1,7 +1,9 @@
 # Registration-using-Tkinter
 
-* User enter the data in GUI.
-* The data would be saved in local .excel file.
+* Create a new excel file named "excel.xlsx"
+* Enter the data in GUI-form.
+* The data will be saved in local .excel file.
+
 ------------------------------------------------------------------
 To setup the project on your local machine:
 
